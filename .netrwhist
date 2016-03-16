@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/reikurata/dev/select-scent-extension/widget/selectScentWidget/element/select-scent-element'
+let g:netrw_dirhist_2='/Users/reikurata/dev/select-scent-extension/widget/selectScentWidget/element/select-scent-element/templates'
+let g:netrw_dirhist_3='/Users/reikurata/dev/select-scent-extension/widget/selectScentWidget/layouts/selectScentLayout'
+let g:netrw_dirhist_4='/Users/reikurata/dev/select-scent-extension/widget/selectScentWidget/element/select-scent-element'
+let g:netrw_dirhist_5='/Users/reikurata/dev/testGlobalWidgetExtension/widget'
+let g:netrw_dirhist_6='/Users/reikurata/Documents/ProductRecs/files/product_recs_email_-_rock_climbing'
+let g:netrw_dirhist_7='/Users/reikurata/dev/select-scent-extension4/widget/selectScentWidget4'
+let g:netrw_dirhist_8='/Users/reikurata/doc_root/test'
+let g:netrw_dirhist_9='/Users/reikurata'
